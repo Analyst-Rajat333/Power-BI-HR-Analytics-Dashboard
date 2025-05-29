@@ -82,7 +82,7 @@ This project presents a comprehensive **HR Analytics Dashboard** created using *
 
 ## 🔗 GitHub Repository Link
 
-(https://github.com/YourUsername/Power-BI-HR-Analytics-Dashboard)  
+(https://github.com/Analyst-Rajat333/Power-BI-HR-Analytics-Dashboard)  
 
 ---
 
